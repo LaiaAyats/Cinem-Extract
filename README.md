@@ -49,7 +49,7 @@ Equipo de Desarrolladoras y Analistas de Datos de Movie Metrics:
 - **Extracción de Datos de Actores:** Implementación de Selenium para obtener detalles de los 10 principales actores de cada película, incluyendo biografía y premios.
 - **Integración de Datos de Premios Oscar:** Utilización de Beautiful Soup para extraer y estructurar información de las tablas de los Premios Oscar desde el año 2000.
 
-## 🛠️ HERRAMIENTAS  (!!! AGREGAR LIBRERíAS !!!)
+## 🛠️ HERRAMIENTAS 
 
 El proyecto utiliza las siguientes herramientas y librerías:
 
@@ -58,6 +58,8 @@ El proyecto utiliza las siguientes herramientas y librerías:
 - **Selenium:** Utilizado para la extracción de detalles específicos de películas desde IMDB y Rotten Tomatoes, como puntuaciones, directores y guionistas.
 - **Beautiful Soup:** Empleado para extraer información de las tablas de los Premios Oscar, incluyendo datos sobre las ceremonias y los ganadores en varias categorías.
 - **SQL:** Utilizado para la creación y gestión de una base de datos relacional que almacena todos los datos recopilados.
+- **Pandas**: Utilizado para la manipulación y análisis de datos.
+- **Requests**: Utilizado para realizar solicitudes HTTP y obtener datos de APIs web.
 
 ## 🤝 COLABORACIONES
 
